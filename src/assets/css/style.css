@@ -1368,4 +1368,11 @@ section {
 .form-size{
   width: 50%;
 }
+.password_forged_size{
+  font-size: 60%;
+  color:#C9A659 ;
+}
+.password_forged_size:hover{
+  color:#2D2656 ;
+}
 
